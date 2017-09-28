@@ -1,0 +1,14 @@
+This calculation package is dveloped by Bin Zhang in Prof. Meenakshi Dutt group at Rutgers University.
+
+This calculation package is using Visual C++6.0. Before run the package, please install VC++ 6.0
+
+All the changes should be performed in M_PEGDlg.h and M_PEGDlg.cpp
+M_PEGDlg.h is used to define group and array
+M_PEGDlg.cpp is used to write the calculation method
+
+All results are stored in files named as dump_num.txt. The exact meaning of each file can be found in file M_PEGDlg.cpp
+In order to increase the calculation time, unused calculation can be taken out by using /* */ at each section.
+
+PEG bead density is stored in avethickness.txt after post-process by using thickness.m
+
+Questions regarding this package please contact xiaoxiamizb@126.com
